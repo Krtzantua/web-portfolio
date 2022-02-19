@@ -1,3 +1,13 @@
-body {
-	background-image: https://allfreedesigns.com/wp-content/uploads/2015/06/black-patterns-11.jpg;
+body { 
+  background-image: url('https://www.netpremacy.com/wp-content/uploads/2018/09/Background-website-01.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
+}
+
+.font1 {
+  font-family: 'Montserrat', sans-serif;
+}
+.font2 {
+  font-family: 'Varela Round', sans-serif;
 }
